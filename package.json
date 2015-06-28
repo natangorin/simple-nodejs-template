@@ -1,0 +1,8 @@
+{
+  "name": "simple-nodejs-template",
+  "version": "0.0.1",
+  "description": "a simple template for nodejs apps (test)",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
